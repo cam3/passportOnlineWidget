@@ -8,6 +8,7 @@
 <div class="center">
 	Weekly Specials
 	<hr>
+	<!-- TODO 1: Get each 'card' outside of iframe, or in independent frame for better design/flow -->
 	<iframe src="https://secure.vacationport.net/TravelInfo/Group?host=archertravel.vacationport.net&PriceGroupId=4229"></iframe>
 	
 	<!-- TODO 2: Create custom ad space for paid supplier specials/banners -->
