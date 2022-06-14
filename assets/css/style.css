@@ -1,0 +1,17 @@
+* {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 2;
+}
+
+.center {
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+}
+
+iframe {
+	border: none;
+	width: 50em;
+	height: 100vh;
+}
