@@ -1,6 +1,6 @@
-# TODO 1: Add https://www.passportonlineinc.com/contentapi.asp functionality
+# TODO 1:
           API: https://archertravel.vacationport.net/
-          Weekly Specials: https://secure.vacationport.net/TravelInfo/Group?host=archertravel.vacationport.net&PriceGroupId=4229
+          Weekly Specials: https://archertravel.vacationport.net/TravelInfo/Group?PriceGroupId=4229
 
 # TODO 2: Create custom ad space for paid supplier specials/banners
 
