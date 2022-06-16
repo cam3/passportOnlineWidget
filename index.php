@@ -5,10 +5,6 @@
 <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
-	<div class="center">
-		<p>Weekly Specials</p>
-		<hr>
-		<iframe src="https://archertravel.vacationport.net/TravelInfo/Group?PriceGroupId=4229"></iframe>
-	</div>
+	<a href="http://www.latesttraveloffers.com/xmlout/GetSSXML.asp?site=VTHARC&OfferGroupID=18181">passportOnlineAPI</a>
 </body>
 </html>
